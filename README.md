@@ -1,12 +1,12 @@
 # 😮😔❤️ Predicting Emoji from the sentence using BERT 😂😨😡 
 ---
+https://ibb.co/Fs59c5W
+![phone_suggestion](https://ibb.co/Fs59c5W)
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Find the most appropriate emoji based on the user input sentence 
+- Support only 6 facial expression emoji 😂😨😡😮😔❤️ 
+
 # Acknowledgement
 
 1. [Kaggle emotions dataset](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp/code) <br>
