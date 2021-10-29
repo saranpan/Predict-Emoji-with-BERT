@@ -1,4 +1,4 @@
-# BERT_for_Emoji
+# ( ͡❛ ͜ʖ ͡❛) 👉 Predicting Emoji from the sentence using BERT 
 
 
 # Acknowledgement
