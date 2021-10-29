@@ -1,6 +1,6 @@
 # 😮😔❤️ Predicting Emoji from the sentence using BERT 😂😨😡 
 
-<body style="background-color:powderblue;">
+<body style="background-color:powderblue;"></body>
 
 ---
 https://ibb.co/Fs59c5W
