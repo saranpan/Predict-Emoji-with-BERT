@@ -9,5 +9,5 @@
 - Export documents as Markdown, HTML and PDF
 # Acknowledgement
 
-[Kaggle emotions dataset](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp/code) <br>
-[Multi Class Text Classification With Deep Learning Using BERT by Susan Li](https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613)
+1. [Kaggle emotions dataset](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp/code) <br>
+2. [Multi Class Text Classification With Deep Learning Using BERT by Susan Li](https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613)
