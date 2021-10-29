@@ -2,11 +2,11 @@
 
 from distutils.core import setup
 
-setup(name='Distutils',
+setup(name='Saran',
       version='1.0',
       description='Python Distribution Utilities',
-      author='Greg Ward',
-      author_email='gward@python.net',
+      author='Wallik2',
+      author_email='runpan4edu@gmail.com',
       url='https://www.python.org/sigs/distutils-sig/',
-      packages=['distutils', 'distutils.command'],
+      packages=['pandas'],
      )
